@@ -9,7 +9,8 @@
 pubspec.lock
 
 # Files and directories created by dart_frog
-build/
+build/.dart_tool
+build/.vscode
 .dart_frog
 .vscode
 
