@@ -1,0 +1,6 @@
+{
+    "build": {
+      "command": "dart compile exe build/bin/server.dart"
+    }
+  }
+  
